@@ -1,9 +1,5 @@
 Template for the Read the Docs tutorial
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This GitHub template includes fictional OSMsc Python library
+https://osmsc-docs.readthedocs.io/en/latest/
